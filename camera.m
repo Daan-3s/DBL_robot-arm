@@ -19,11 +19,11 @@ mask_object_3 = @example_mask_blue;
 
 % Blob area; minimum and maximum area for the blob analysis per object
 % in pixels
-min_blob_area_object_1 = 1000;  % Minimal blob area in pixels for object 1
+min_blob_area_object_1 = 2500;  % Minimal blob area in pixels for object 1
 max_blob_area_object_1 = 40000; % Maximum blob area in pixels for object 1       
-min_blob_area_object_2 = 1000;  % Minimal blob area in pixels for object 2
+min_blob_area_object_2 = 2500;  % Minimal blob area in pixels for object 2
 max_blob_area_object_2 = 40000; % Maximum blob area in pixels for object 2     
-min_blob_area_object_3 = 1000;  % Minimal blob area in pixels for object 3
+min_blob_area_object_3 = 2500;  % Minimal blob area in pixels for object 3
 max_blob_area_object_3 = 40000; % Maximum blob area in pixels for object 3       
 
 % Framerate in Hz of the object detection; set this lower if you notice
